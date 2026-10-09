@@ -27,7 +27,8 @@ I found two data problems. First, some city names were spelled differently (like
 Second, 2 trips were saved twice, which would have counted revenue that was earned only once. 
 
 Before a big decision, I would like to know why April 2026 was so weak and why 9 completed trips have no fare.
-
 ---
-
 ## Files in Repository
+[Project Doc](Arawo_PraiseGod_David_ZoomRide_SQL_Project.docx)
+[ZoomRide](zoomride_arawopraisegoddavid.sql)
+
