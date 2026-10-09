@@ -16,6 +16,8 @@ manager.
 • Which type of vehicle earns the most money?
 
 ---
+## https://onecompiler.com/mysql/455ntkaqv
+---
 
 ## MESSAGE TO THE MANAGER
 Based on the results, I suggest that ZoomRide invests in Lagos. 
